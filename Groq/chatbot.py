@@ -92,7 +92,7 @@ class LLMRag:
         if faiss_index is None:
             faiss_index = self.faiss_index  
         embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2") 
-        documents = SimpleDirectoryReader(f"../data/{self.lang}").load_data() 
+        documents = SimpleDirectoryReader(f"data/{self.lang}").load_data() 
 
         query_embedding = embed_model.get_text_embedding(query)
         query_embedding = np.array([query_embedding]).astype(np.float32)
