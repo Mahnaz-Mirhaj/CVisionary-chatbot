@@ -1,0 +1,21 @@
+Mahnaz Mirhaj Education:
+
+{{Date: 10/2021-09/2024}
+{Location: Bonn, Germany} 
+{Major: Computer Science with specification in Inteligent Systems}
+{University: Rhenish Friedrich Wilhelm University of Bonn}
+{Master of Science}
+{GPA: 2.0/1 (Good)} 
+{Thesis Title: Improving Natural Language Inference Task with Human-Like LLM Explanations}
+{Relevant Courses: Algorithms for Data Analysis (1/1), Machine Learning (1.7/1). Technical Neural Networks (1.7/1). Introduction to Natural Language Processing (1.7/1). Lab Machine Learning and Big Data (1.3/1)}
+}
+
+
+{{Date: 10/2016-06/2021}
+{Location:  Tehran, Iran} 
+{Major: Computer Science}
+{University: Shahid Beheshti University}
+{Bachelors of Science}
+{GPA: 16.46/20} 
+}
+

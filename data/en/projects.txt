@@ -1,0 +1,35 @@
+Here are some projects that Mahnaz Mirhaj successfully completed.
+
+
+{neuland.ai:
+1 - Designed and implemented an internal RAG chatbot to assist employees with daily tasks.
+2 - Leveraged LLMs to extract knowledge from documents and structured the output into JSON using OWL ontology.
+}
+ 
+{Scalefree International GmbH:
+1 -  Modeled Salesforce objects based on Data Vault 2.0 methodologies with dbt.
+2 - Developed a GitHub test for validating Data Vault YAML file definition with Python script. 
+3 - Built a Visual graph for the internal EDW models utilizing DBDocs.
+4 - Created ETL pipeline with step function in AWS cloud for MySQL data source.
+}
+
+{CAISA Lab: 
+1 - Deployed open-source LLMs and prompting techniques to generate machine explanations closely resembling human ones.
+2 - Analyzed the evaluation and usage of machine-generated explanations to improve the performance of NLP models, employing ML models implemented by PyTorch.
+3 - Performed exploratory analysis of textual data.
+}
+
+
+{atrify GmbH:
+1 - Built ETL/ELT pipelines for various big data sources using Google Cloud, SQL, and Python libraries such as Pandas, and extracted data from various sources such as Salesforce API and Google Analytics.
+2 - Leveraged data science techniques such as outlier detection, missing value handling, and feature engineering to transform data effectively using Scikit-learn.
+3 - Provided meaningful insights through visualizations and creating interactive dashboards with Looker Studio, in addition to, maintaining them.
+}
+
+{LIME Model:
+1 - Developed the LIME model from scratch from model-centric and data-centric views to explain NLP models.
+}
+
+{Fine-tuning SBERT Model:
+1 - Fine-tuned the SBERT (Sentence-BERT) model over the Amazon-Cat13k dataset with a focus on explainability in NLP, by utilizing the information from document categories.
+}

@@ -1,4 +1,4 @@
 .venv
 .env
-data
 Huggingface
+Groq/__pycache__

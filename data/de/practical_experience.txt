@@ -1,0 +1,48 @@
+Mahnaz Mirhaj Praktische Erfahrung:
+
+{
+{Datum: 10/2024-Gegenwart} 
+{Standort: Köln, Deutschland} 
+{Rolle: AI Developer}
+{Unternehmen: neuland.ai}
+{Teilzeit}
+{Aufgaben: Entwicklung von generativen KI- und LLM-basierten Lösungen für kleine und mittelständische Unternehmen als Berater, u.a. RAG-Chatbots und Wissensextraktionsagenten }
+}
+
+{
+{Datum: 10/2023-07/2024} 
+{{Standort: Köln, Deutschland} 
+{Rolle: Spezialist für technische Lösungen}
+{Unternehmen: Scalefree International GmbH}
+{Arbeitsstudent}
+{Aufgaben: 1 - Arbeit im Enterprise Data Warehouse (EDW) Team.
+2 - Erstellung von Data Vault 2.0. Modellen und ETL/ELT Pipelines für verschiedene Quellsysteme.
+3 - Arbeiten mit AWS und Google Cloud Platform}
+}
+}
+
+
+{
+{Datum: 10/2023-08/2024} 
+{ {Ort: Bonn, Deutschland} 
+{Rolle: Master Thesis Student}
+{Unternehmen: CAISA Lab, Universität Bonn}
+{Master Thesis Student}
+{
+Aufgaben: 1 - Erforschung von Methoden zur Erklärung von Large Language Models (LLMs), um natürlichsprachliche Inferenzaufgaben zu verbessern.
+2 - Entwicklung einer Evaluierungspipeline unter Verwendung von Prompt Engineering }
+}
+}
+
+{
+{Datum: 08/2022-08/2023} 
+{{Ort: Köln, Deutschland} 
+{Rolle: Datenanalyst}
+{Unternehmen: atrify GmbH (1WorldSync)}
+{Arbeitsstudent}
+{Aufgaben: 1 - Mitarbeit im Team Innovation und Data Science.
+2 - Entwicklung von datengesteuerten Lösungen durch kollaborative Teamarbeit.
+3 - Pflege und Bereitstellung aussagekräftiger Erkenntnisse durch Visualisierungen und interaktive Dashboard-Erstellung }
+}
+}
+

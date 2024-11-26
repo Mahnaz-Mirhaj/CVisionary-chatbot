@@ -1,0 +1,35 @@
+Hier sind einige Projekte, die Mahnaz Mirhaj erfolgreich abgeschlossen hat.
+
+
+{neuland.ai:
+1 - Entwurf und Implementierung eines internen RAG-Chatbots zur Unterstützung der Mitarbeiter bei täglichen Aufgaben.
+2 - Nutzung von LLMs zur Extraktion von Wissen aus Dokumenten und Strukturierung der Ausgabe in JSON unter Verwendung der OWL Ontologie.
+}
+
+{Scalefree International GmbH:
+1 - Modellierung von Salesforce-Objekten basierend auf Data Vault 2.0-Methodologien mit dbt.
+2 - Entwicklung eines GitHub-Tests zur Validierung der Data Vault YAML-Dateidefinition mit Python-Skript. 
+3 - Erstellung eines visuellen Graphen für die internen EDW-Modelle unter Verwendung von DBDocs.
+4 - Erstellung einer ETL-Pipeline mit Step-Funktion in der AWS-Cloud für die Datenquelle MySQL.
+}
+
+{CAISA Lab: 
+1 - Einsatz von Open-Source-LLMs und Prompting-Techniken, um maschinelle Erklärungen zu generieren, die den menschlichen Erklärungen sehr ähnlich sind.
+2 - Analyse der Bewertung und Verwendung von maschinell erzeugten Erklärungen zur Verbesserung der Leistung von NLP-Modellen unter Verwendung von ML-Modellen, die mit PyTorch implementiert wurden.
+3 - Durchführung einer explorativen Analyse von Textdaten.
+}
+
+
+{atrify GmbH:
+1 - Aufbau von ETL/ELT-Pipelines für verschiedene Big-Data-Quellen unter Verwendung von Google Cloud, SQL und Python-Bibliotheken wie Pandas und Extraktion von Daten aus verschiedenen Quellen wie Salesforce API und Google Analytics.
+2 - Nutzung von Data-Science-Techniken wie Ausreißererkennung, Umgang mit fehlenden Werten und Feature-Engineering, um Daten mithilfe von Scikit-Learn effektiv zu transformieren.
+3 - Bereitstellung aussagekräftiger Erkenntnisse durch Visualisierungen und Erstellung interaktiver Dashboards mit Looker Studio sowie deren Pflege.
+}
+
+{LIME-Modell:
+1 - Entwickelte das LIME-Modell von Grund auf aus modell- und datenzentrierter Sicht, um NLP-Modelle zu erklären.
+}
+
+{Feinabstimmung des SBERT-Modells:
+1 - Feinabstimmung des SBERT (Sentence-BERT)-Modells über den Amazon-Cat13k-Datensatz mit dem Schwerpunkt auf Erklärbarkeit in NLP, durch Nutzung der Informationen aus Dokumentenkategorien.
+}

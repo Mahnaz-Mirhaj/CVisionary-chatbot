@@ -1,0 +1,22 @@
+Mahnaz Mirhaj Ausbildung:
+
+{{Datum: 10/2021-09/2024}
+{{Ort: Bonn, Deutschland} 
+{Schwerpunkt: Informatik mit Spezialisierung auf Intelligente Systeme}
+{Universität: Rheinische Friedrich-Wilhelms-Universität Bonn}
+{Master of Science}
+{GPA: 2,0/1 (Gut)} 
+{Thesis Title: Verbesserung von natürlichsprachlichen Inferenzaufgaben mit menschenähnlichen LLM-Erklärungen}
+{Relevante Kurse: Algorithmen zur Datenanalyse (1/1), Maschinelles Lernen (1.7/1). Technische Neuronale Netze (1.7/1). Einführung in die natürliche Sprachverarbeitung (1.7/1). Labor Maschinelles Lernen und Big Data (1.3/1)}
+}
+}
+
+{{Datum: 10/2016-06/2021}
+{{Standort: Teheran, Iran} 
+{Major: Computerwissenschaften}
+{Universität: Shahid Beheshti Universität}
+{Bachelor of Science}
+{GPA: 16.46/20} 
+}}
+
+

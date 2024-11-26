@@ -1,0 +1,21 @@
+Mahnaz Mirhaj Skills and Tools: 
+
+
+{ Programming Languages: Python, SQL}
+
+{Tools: Git, Docker, Looker Studio, Google Data Analytics, Meltano}
+
+
+{Machine Learning Frameworks: PyTorch, Scikit-learn, NumPy, Pandas, LlamaIndex}
+
+{Machine Learning Methods: Neural Networks (CNN, SNN, MLP), SVM, Random
+Forest, KNN, K-Means, Decision Tree, Linear/Logistic Regression, Dimension Reduction Techniques (PCA, Kernel PCA), Bayesian Learning.}
+
+{Data Visualization Frameworks: Matplotlib, Seaborn, Plotly}
+
+{NLP Methods:Hugging Face, Transformers Model (SBERT), Prompt Engineering, LIME, Bidirectional LSTM, LLM, RAG}
+
+
+{Cloud Tools: Google Cloud BigQuery, Amazon Web Services, Microsoft Azure Cloud}
+
+{Operating Systems: Windows, Linux}
