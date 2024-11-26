@@ -9,6 +9,6 @@ CVisionary is an RAG-based chatbot utilizing the [Groq API](https://console.groq
 
 ## Important Note
 As an LLM-powered chatbot, CVisionary may occasionally generate inaccurate or fabricated responses (hallucinations). Please verify critical information independently.
-
+CVisionary does not store or retain any user-provided data. Once the conversation is cleared, all history is permanently erased.
 If you have any feedback or suggestions, feel free to reach out!
 
