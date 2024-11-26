@@ -3,7 +3,7 @@ from huggingface_hub import login
 import streamlit as st
 from langchain.schema import (SystemMessage, HumanMessage, AIMessage)
 from streamlit_chat import message as st_message
-from Groq.chatbot import *
+from chatbot import *
 from dotenv import load_dotenv
 import os
 
