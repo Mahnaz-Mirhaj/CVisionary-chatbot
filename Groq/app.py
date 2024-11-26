@@ -45,7 +45,7 @@ def main() -> None:
 
     load_dotenv()
 
-    FAISS_INDEX_PATH = os.getenv("FAISS_INDEX_PATH", "../vector-store/faiss_index")  
+    FAISS_INDEX_PATH = os.getenv("FAISS_INDEX_PATH", "vector-store/faiss_index")  
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
     # Initialize the chatbot agent if not already present
