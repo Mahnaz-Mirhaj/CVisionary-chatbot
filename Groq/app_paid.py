@@ -3,7 +3,7 @@ from huggingface_hub import login
 import streamlit as st
 from langchain.schema import (SystemMessage, HumanMessage, AIMessage)
 from streamlit_chat import message as st_message
-from Groq.chatbot_paid import *
+from chatbot_paid import *
 from dotenv import load_dotenv
 import os
 
@@ -21,7 +21,7 @@ def init_page() -> None:
     # Add link to Mahnaz Mirhaj's CV
     st.sidebar.markdown("📝[About Me](https://mahnaz-mirhaj.github.io/CV/)", unsafe_allow_html=True)  
     st.sidebar.markdown("📧 [Contact Me](mailto:mahnazmirhaj1997@gmail.com)")
-    st.sidebar.markdown("🤖[About CVisionary](https://mahnaz-mirhaj.github.io/CV/)", unsafe_allow_html=True)  
+    st.sidebar.markdown("🤖[About CVisionary](https://github.com/Mahnaz-Mirhaj/CVisionary-chatbot)", unsafe_allow_html=True)  
 
 # Clear and initialize messages
 def init_messages() -> None:
@@ -45,7 +45,7 @@ def main() -> None:
 
     load_dotenv()
 
-    FAISS_INDEX_PATH = os.getenv("FAISS_INDEX_PATH", "faiss_index")
+    FAISS_INDEX_PATH = os.getenv("FAISS_INDEX_PATH", "../vector-store/faiss_index")  
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
     # Initialize the chatbot agent if not already present
