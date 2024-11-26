@@ -1,6 +1,6 @@
 # CVisionary Chatbot
 
-CVisionary is an RAG-based chatbot utilizing the [Groq API](https://console.groq.com/docs/models) with the Llama-3-8B-Instant model in its free beta version. The model supports up to 8192 tokens with a context window size of 128k. 
+CVisionary is an RAG-based chatbot utilizing the [Groq API](https://console.groq.com/docs/models) with the Llama-3-8B-Instant model in its free beta version. The model supports up to 8192 tokens request with a context window size of 128k. 
 
 ## How to Run
 1. Obtain an API key from the [Groq website](https://console.groq.com/docs/models).
