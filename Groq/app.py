@@ -27,7 +27,7 @@ def init_page() -> None:
 def init_messages() -> None:
     """Clears and initializes chat messages."""
     logger.info("Initializing chat messages.")
-    clear_button = st.sidebar.button("Clear Conversation", key="clear")
+    clear_button = st.sidebar.button("Reset Conversation", key="clear")
     if clear_button or "messages" not in st.session_state:
         logger.info("Resetting messages state.")
         st.session_state.messages = []
