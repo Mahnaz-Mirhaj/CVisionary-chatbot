@@ -9,7 +9,12 @@ CVisionary is an RAG-based chatbot utilizing the [Groq API](https://console.groq
 
 ## Important Note
 As an LLM-powered chatbot, CVisionary may occasionally generate inaccurate or fabricated responses (hallucinations). Please verify critical information independently.
+
 CVisionary does not store or retain any user-provided data. Once the conversation is reset, all history is permanently erased.
+
 If CVisionary provides incorrect answers, restart the conversation and rephrase the question with more detail.
+
 If you have any feedback or suggestions, feel free to reach out!
+
+You can find CVisionary beta version deployed in streamlit cloud via the following link: [CVisionary](https://cvisionary-chatbot.streamlit.app/)
 
